@@ -1,15 +1,1 @@
-# Math formulas
-## Area
-- Circle: S = πR²
-- Rectangle: S = ab
-- Square: S = a²
-
-## Perimeter
-- Circle: P = 2πR
-- Rectangle: P = 2a + 2b
-- Square: P = 4a
-
-## Что то на математическом
-- P: 3.14
-- 2 * 2 = 4
-- 3 * 3 = 9
+Hi
